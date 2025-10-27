@@ -43,7 +43,6 @@ Kode :
 
 Kode :
 ```
-/* ===== HEADER & NAVBAR ===== */
 header {
   background: #f3e9ff;
   border-bottom: 2px solid #d1c4e9;
@@ -159,7 +158,6 @@ Kode :
 
 Kode :
 ```
-/* ===== WRAPPER LAYOUT ===== */
 #wrapper {
   display: flex;
   justify-content: space-between;
