@@ -73,7 +73,8 @@ Output :
 
 
 
-........
+<img width="1918" height="345" alt="Screenshot 2025-10-27 145511" src="https://github.com/user-attachments/assets/e60bea08-ebca-4658-ad21-ea3d19c50fd3" />
+
 
 
 
@@ -133,7 +134,8 @@ Output :
 
 
 
-........
+<img width="1919" height="580" alt="Screenshot 2025-10-27 145614" src="https://github.com/user-attachments/assets/91d68c2d-c068-4c2f-b16c-2cf13f4d3e3b" />
+
 
 
 
@@ -178,7 +180,8 @@ Output :
 
 
 
-........
+<img width="1919" height="583" alt="Screenshot 2025-10-27 150037" src="https://github.com/user-attachments/assets/3b0dbe52-0024-49e1-b782-2dcda55764c7" />
+
 
 
 
@@ -242,7 +245,8 @@ Output :
 
 
 
-........
+<img width="1919" height="762" alt="Screenshot 2025-10-27 150152" src="https://github.com/user-attachments/assets/be5bb199-d1c8-41fa-af76-5ac09ba76725" />
+
 
 
 
@@ -296,7 +300,8 @@ Output :
 
 
 
-........
+<img width="1919" height="1079" alt="Screenshot 2025-10-27 150250" src="https://github.com/user-attachments/assets/3634b800-841e-434f-b309-e89415e1fe35" />
+
 
 
 
@@ -359,7 +364,8 @@ Output :
 
 
 
-........
+<img width="1919" height="1000" alt="Screenshot 2025-10-27 150403" src="https://github.com/user-attachments/assets/86f78182-0ad7-42fb-824f-ccdb2dcc57b0" />
+
 
 
 
@@ -394,7 +400,8 @@ Output :
 
 
 
-........
+<img width="1916" height="997" alt="Screenshot 2025-10-27 150511" src="https://github.com/user-attachments/assets/6086fc8b-7432-43e0-85c8-414a4f0fbff2" />
+
 
 
 
@@ -424,6 +431,15 @@ Kode :
   }
 }
 ```
+
+Output :
+
+
+<img width="1919" height="980" alt="Screenshot 2025-10-27 150544" src="https://github.com/user-attachments/assets/49c3f8fa-fee1-4570-a3da-15e92f6550b5" />
+
+
+
+
 
 **Tahap 10 — Validasi HTML (di akhir**)
 
